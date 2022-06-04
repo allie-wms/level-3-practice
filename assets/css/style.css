@@ -1,0 +1,53 @@
+.title {
+    color: #809dd6;
+}
+.icon {
+    list-style-type: none;
+}
+li {
+    list-style-type: none;
+}
+.top {
+    background-color:#809dd6;
+    color: white;
+    height: 500px;
+    margin-top: 20px;
+    
+}
+
+.bottom {
+    background-color: #a1b4da;
+    color: white;
+}
+h3 {
+    padding-top: 20px;
+}
+img {
+    padding-top: 15px;
+}
+.experience {
+    font-weight: bold;
+}
+.date {
+    text-align: right;
+    color: gray;
+}
+.info {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    
+}
+.info-sub {
+    margin: 0;
+}
+.description {
+    padding: 15px;
+}
+.location {
+    color: gray;
+    padding-top: 0;
+}
+
+
+
