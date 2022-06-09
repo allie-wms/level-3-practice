@@ -111,8 +111,15 @@ img {
 .location {
     color: gray;
     padding-top: 0;
-    
     text-align: left;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color:#809dd6;
+    text-decoration: underline;
 }
 
 
